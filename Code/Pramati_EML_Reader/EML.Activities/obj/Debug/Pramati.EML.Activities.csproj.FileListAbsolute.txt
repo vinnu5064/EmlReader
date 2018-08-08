@@ -1,0 +1,17 @@
+C:\Users\Pramati\source\repos\Pramati_RPA_Activities\Pramati.EML.Activities\bin\Debug\Pramati.EML.Activities.dll
+C:\Users\Pramati\source\repos\Pramati_RPA_Activities\Pramati.EML.Activities\bin\Debug\Pramati.EML.Activities.pdb
+C:\Users\Pramati\source\repos\Pramati_RPA_Activities\Pramati.EML.Activities\bin\Debug\MsgReader.dll
+C:\Users\Pramati\source\repos\Pramati_RPA_Activities\Pramati.EML.Activities\bin\Debug\Itenso.Rtf.Converter.Html.dll
+C:\Users\Pramati\source\repos\Pramati_RPA_Activities\Pramati.EML.Activities\bin\Debug\Itenso.Rtf.Interpreter.dll
+C:\Users\Pramati\source\repos\Pramati_RPA_Activities\Pramati.EML.Activities\bin\Debug\Itenso.Sys.dll
+C:\Users\Pramati\source\repos\Pramati_RPA_Activities\Pramati.EML.Activities\bin\Debug\Itenso.Rtf.Parser.dll
+C:\Users\Pramati\source\repos\Pramati_RPA_Activities\Pramati.EML.Activities\bin\Debug\MsgReader.pdb
+C:\Users\Pramati\source\repos\Pramati_RPA_Activities\Pramati.EML.Activities\bin\Debug\MsgReader.xml
+C:\Users\Pramati\source\repos\Pramati_RPA_Activities\Pramati.EML.Activities\bin\Debug\de\MsgReader.resources.dll
+C:\Users\Pramati\source\repos\Pramati_RPA_Activities\Pramati.EML.Activities\bin\Debug\fr\MsgReader.resources.dll
+C:\Users\Pramati\source\repos\Pramati_RPA_Activities\Pramati.EML.Activities\bin\Debug\nl\MsgReader.resources.dll
+C:\Users\Pramati\source\repos\Pramati_RPA_Activities\Pramati.EML.Activities\bin\Debug\zh-CN\MsgReader.resources.dll
+C:\Users\Pramati\source\repos\Pramati_RPA_Activities\Pramati.EML.Activities\obj\Debug\Pramati.EML.Activities.csprojResolveAssemblyReference.cache
+C:\Users\Pramati\source\repos\Pramati_RPA_Activities\Pramati.EML.Activities\obj\Debug\Pramati.EML.Activities.csproj.CoreCompileInputs.cache
+C:\Users\Pramati\source\repos\Pramati_RPA_Activities\Pramati.EML.Activities\obj\Debug\Pramati.EML.Activities.dll
+C:\Users\Pramati\source\repos\Pramati_RPA_Activities\Pramati.EML.Activities\obj\Debug\Pramati.EML.Activities.pdb
